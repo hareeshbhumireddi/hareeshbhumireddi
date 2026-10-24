@@ -1,13 +1,18 @@
 <div align="center">
 
-<h1>Harish Bhumireddi</h1>
+<sub><code>hareeshbhumireddi</code> / <code>README.md</code> &nbsp;·&nbsp; developer profile</sub>
 
-<h3>Python Developer · AI/ML · Practical Software</h3>
+# Harish Bhumireddi
 
-<a href="https://hareeshbhumireddi.github.io/">Portfolio</a> ·
-<a href="https://github.com/hareeshbhumireddi">GitHub</a> ·
-<a href="https://www.linkedin.com/in/harishbhumireddi">LinkedIn</a> ·
-<a href="mailto:hareeshbhumireddi@gmail.com">Email</a>
+### Python Developer &nbsp;·&nbsp; AI/ML &nbsp;·&nbsp; Web Development
+
+<strong>Building practical software, one useful idea at a time.</strong>
+
+<a href="https://www.linkedin.com/in/harishbhumireddi"><img alt="LinkedIn — connect" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+<a href="https://hareeshbhumireddi.github.io/"><img alt="Portfolio — visit" src="https://img.shields.io/badge/Portfolio-Visit-7558D8?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"></a>
+<a href="mailto:hareeshbhumireddi@gmail.com"><img alt="Email — contact" src="https://img.shields.io/badge/Email-Contact-44546A?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
+
+<em>Curiosity in. Useful software out.</em>
 
 </div>
 
@@ -17,27 +22,22 @@
 <tr>
 <td width="56%" valign="top">
 
-<h2>About</h2>
+## About
 
-<p>I build practical software projects across Python, AI/ML, and web development. My work includes a job-posting fraud analysis application and student-assistance tools. I’m continuing to strengthen my software engineering foundations and learn by building and documenting projects.</p>
+I’m Harish, a software developer focused on Python, AI/ML, and web development. I learn by building hands-on projects—from job-posting risk analysis to student-support tools—and by strengthening my foundations in software development and problem-solving.
 
-<h2>Experience</h2>
-
-<p><strong>AI Developer Intern — Smart Intelli Machines</strong></p>
+<strong>Experience</strong> · AI Developer Intern at Smart Intelli Machines
 
 </td>
 <td width="44%" valign="top">
 
-<h2>Skills</h2>
+## Developer command center
 
-<p><strong>Programming</strong><br>
-<code>Python</code> <code>SQL</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
+<strong>Build</strong> · Python · Flask · HTML · CSS · JavaScript
 
-<p><strong>AI &amp; data</strong><br>
-<code>Machine learning</code> <code>scikit-learn</code> <code>Pandas</code> <code>NumPy</code></p>
+<strong>Explore</strong> · Machine learning · scikit-learn · Pandas · NumPy
 
-<p><strong>Web &amp; tools</strong><br>
-<code>Flask</code> <code>Git</code> <code>GitHub</code> <code>VS Code</code></p>
+<strong>Foundations</strong> · SQL · Git · GitHub · CRM fundamentals
 
 </td>
 </tr>
@@ -47,25 +47,68 @@
 
 ## Featured projects
 
-### [JobShield AI](https://github.com/hareeshbhumireddi/JobShield-AI)
-A Python/Flask app combining rule-based checks and a scikit-learn model to flag potential fraud in job listings. The repository includes the application, model-training script, and saved model.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### [Classroom Companion AI](https://github.com/hareeshbhumireddi/Classroom-Companion-AI)
-A Python Telegram bot and student-support app, with academic, career, and campus-life workflows described in the project README. The repository includes handlers, services, routers, dependencies, and a database file.
+### [01 / JobShield AI](https://github.com/hareeshbhumireddi/JobShield-AI)
 
-### [Smart Resume AI](https://github.com/hareeshbhumireddi/Smart-Resume-AI)
-A Python application for resume analysis, job-search, and interview-preparation workflows, organized into separate feature modules.
+Python/Flask application combining rule-based checks and a scikit-learn model to flag potential fraud in job listings. The repository includes the app, training script, and saved model.
 
-### [Developer portfolio](https://hareeshbhumireddi.github.io/)
-My HTML, CSS, and JavaScript portfolio with project and skills sections.
+<sub>Python · Flask · scikit-learn</sub>
 
-## Supply-chain work
+</td>
+<td width="50%" valign="top">
 
-[ProcureMind AI](https://github.com/hareeshbhumireddi/IntelliVerse_AI/tree/main/ProcureMind_AI) is a supply-chain product concept documented in the IntelliVerse AI repository. Its README describes the project as planning and documentation; it is not presented here as a completed or deployed system.
+### [02 / Classroom Companion AI](https://github.com/hareeshbhumireddi/Classroom-Companion-AI)
+
+Python Telegram bot and student-support application. Its documented workflows cover academic help, career guidance, and campus-life support.
+
+<sub>Python · Telegram bot · SQLite</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [03 / Smart Resume AI](https://github.com/hareeshbhumireddi/Smart-Resume-AI)
+
+Python application with resume analysis, job-search, and interview-preparation workflows, organized into feature modules.
+
+<sub>Python · AI-assisted career tools</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [04 / Developer portfolio](https://hareeshbhumireddi.github.io/)
+
+A personal portfolio built with HTML, CSS, and JavaScript to present projects, skills, and education.
+
+<sub>HTML · CSS · JavaScript</sub>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>Supply-chain concept · ProcureMind AI</strong></summary>
+
+[ProcureMind AI](https://github.com/hareeshbhumireddi/IntelliVerse_AI/tree/main/ProcureMind_AI) is planning and documentation in the IntelliVerse AI repository. Its README describes it as planning-only, not a completed or deployed SCM product.
+
+</details>
 
 ---
 
 <div align="center">
-<p>Open to connecting about Python development, AI/ML, and practical software projects.</p>
+
+### Technology in my projects
+
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"> <img alt="Flask" src="https://img.shields.io/badge/Flask-333333?style=flat-square&amp;logo=flask&amp;logoColor=white"> <img alt="scikit--learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white"> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white"> <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=111111"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white"> <img alt="SQL" src="https://img.shields.io/badge/SQL-4051B5?style=flat-square&amp;logo=sqlite&amp;logoColor=white">
+
+<br><br>
+
+<a href="https://hareeshbhumireddi.github.io/">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/harishbhumireddi">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:hareeshbhumireddi@gmail.com">Get in touch</a>
 
 </div>
